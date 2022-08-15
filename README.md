@@ -35,6 +35,10 @@
 <b>Camera</b></br>
 <b>ETC</b></br>
 
+### Video Reviews
+
+https://www.youtube.com/watch?v=zW9c_Dc7eUU
+
 ## Not Working
 
 Nvidia 940mx
